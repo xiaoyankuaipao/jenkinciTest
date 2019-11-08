@@ -1,0 +1,14 @@
+C:\Users\yan\source\repos\jenkinciTest\jenkinciTest\bin\Debug\netcoreapp2.1\jenkinciTest.deps.json
+C:\Users\yan\source\repos\jenkinciTest\jenkinciTest\bin\Debug\netcoreapp2.1\jenkinciTest.runtimeconfig.json
+C:\Users\yan\source\repos\jenkinciTest\jenkinciTest\bin\Debug\netcoreapp2.1\jenkinciTest.runtimeconfig.dev.json
+C:\Users\yan\source\repos\jenkinciTest\jenkinciTest\bin\Debug\netcoreapp2.1\jenkinciTest.dll
+C:\Users\yan\source\repos\jenkinciTest\jenkinciTest\bin\Debug\netcoreapp2.1\jenkinciTest.pdb
+C:\Users\yan\source\repos\jenkinciTest\jenkinciTest\obj\Debug\netcoreapp2.1\jenkinciTest.csprojAssemblyReference.cache
+C:\Users\yan\source\repos\jenkinciTest\jenkinciTest\obj\Debug\netcoreapp2.1\jenkinciTest.csproj.CoreCompileInputs.cache
+C:\Users\yan\source\repos\jenkinciTest\jenkinciTest\obj\Debug\netcoreapp2.1\jenkinciTest.RazorAssemblyInfo.cache
+C:\Users\yan\source\repos\jenkinciTest\jenkinciTest\obj\Debug\netcoreapp2.1\jenkinciTest.RazorAssemblyInfo.cs
+C:\Users\yan\source\repos\jenkinciTest\jenkinciTest\obj\Debug\netcoreapp2.1\jenkinciTest.AssemblyInfoInputs.cache
+C:\Users\yan\source\repos\jenkinciTest\jenkinciTest\obj\Debug\netcoreapp2.1\jenkinciTest.AssemblyInfo.cs
+C:\Users\yan\source\repos\jenkinciTest\jenkinciTest\obj\Debug\netcoreapp2.1\jenkinciTest.RazorTargetAssemblyInfo.cache
+C:\Users\yan\source\repos\jenkinciTest\jenkinciTest\obj\Debug\netcoreapp2.1\jenkinciTest.dll
+C:\Users\yan\source\repos\jenkinciTest\jenkinciTest\obj\Debug\netcoreapp2.1\jenkinciTest.pdb
